@@ -1,0 +1,9 @@
+id,gene,chrom,pos,ref,alt,annotation,base_weight,freq_in_res,freq_in_susc,category
+katG_S315T,katG,NC_000962.3,2155168,G,C,Ser315Thr (Catalase-peroxidase loss -> INH activation failure),3.8,0.72,0.02,Known High-Confidence Driver
+rpoB_S450L,rpoB,NC_000962.3,761155,C,T,Ser450Leu (RNA polymerase beta subunit -> Rifampicin resistance),3.2,0.58,0.01,Known High-Confidence Driver
+inhA_promoter_C-15T,fabG1-inhA,NC_000962.3,1673425,C,T,c.-15C>T (Promoter mutation -> inhA target titration),2.1,0.28,0.03,Known Moderate Driver
+gyrA_D94G,gyrA,NC_000962.3,7582,A,G,Asp94Gly (DNA gyrase A -> Fluoroquinolone resistance),2.5,0.35,0.02,Known Moderate Driver
+novM_G214R_Efflux,novM (Uncharacterized Membrane Protein),NC_000962.3,3891420,G,A,Gly214Arg (Transmembrane channel loop -> Putative efflux activation),2.9,0.44,0.04,Novel Lab Candidate (Efflux Pump)
+novM_L108P_TM2,novM (Uncharacterized Membrane Protein),NC_000962.3,3891102,T,C,Leu108Pro (TM domain 2 helix destabilization),1.9,0.22,0.03,Novel Lab Candidate (Membrane)
+embB_M306V,embB,NC_000962.3,4247429,A,G,Met306Val (Arabinosyltransferase -> Ethambutol resistance),2.2,0.31,0.03,Known Moderate Driver
+pncA_H57D,pncA,NC_000962.3,2288920,C,G,His57Asp (Pyrazinamidase active site disruption),1.8,0.25,0.02,Known Moderate Driver
