@@ -1,0 +1,11 @@
+Rank,Mutation_Locus,Target_Gene,Mean_Abs_SHAP,Freq_In_Resistant,Freq_In_Susceptible,Enrichment_Ratio,Biological_Classification
+1,katG_S315T,katG,1.1581,0.667,0.014,44.84,Known First-Line Driver (Isoniazid)
+2,rpoB_S450L,rpoB,1.0369,0.583,0.014,39.25,Known First-Line Driver (Rifampicin)
+3,novM_G214R_Efflux,novM,0.7378,0.646,0.028,22.48,Novel Membrane Protein Candidate (Efflux/Channel)
+4,gyrA_D94G,gyrA,0.7348,0.583,0.0,584.33,Known Second-Line Driver (Fluoroquinolone)
+5,embB_M306V,embB,0.4577,0.188,0.056,3.33,Known First-Line Driver (Ethambutol)
+6,inhA_promoter_C-15T,fabG1-inhA,0.4375,0.292,0.042,6.86,Known First-Line Driver (Isoniazid Promoter)
+7,pncA_H57D,pncA,0.1424,0.312,0.028,10.89,Known First-Line Driver (Pyrazinamide)
+8,snp_pos_2300035_T>C,Intergenic / Neutral,0.1368,0.083,0.125,0.67,Putative Passenger / Lineage Variant
+9,snp_pos_2010034_C>A,Intergenic / Neutral,0.1345,0.083,0.167,0.5,Putative Passenger / Lineage Variant
+10,novM_L108P_TM2,novM,0.0791,0.208,0.014,14.06,Novel Membrane Protein Candidate (Efflux/Channel)
